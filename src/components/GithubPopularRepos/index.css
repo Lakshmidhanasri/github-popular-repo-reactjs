@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.heading {
+  font-size: 40px;
+  font-family: Lobster;
+  color: black;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+}
+.respo-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80vw;
+}
